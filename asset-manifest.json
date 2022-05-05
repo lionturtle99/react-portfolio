@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/lionturtle99/react-portfolio/static/css/main.ca802487.css",
-    "main.js": "/lionturtle99/react-portfolio/static/js/main.618deae2.js",
-    "static/js/787.a2cb61a6.chunk.js": "/lionturtle99/react-portfolio/static/js/787.a2cb61a6.chunk.js",
-    "static/media/taproom.gif": "/lionturtle99/react-portfolio/static/media/taproom.d87a505b360a3ec86b1d.gif",
-    "static/media/closeup.jpg": "/lionturtle99/react-portfolio/static/media/closeup.bbfa74d69a56d6f1bdb6.jpg",
-    "static/media/rollerskate.png": "/lionturtle99/react-portfolio/static/media/rollerskate.733e04974a8acc5fe8ca.png",
-    "static/media/resume.pdf": "/lionturtle99/react-portfolio/static/media/resume.aa3d4046e5ceecedad1a.pdf",
-    "static/media/medium (1).jpg": "/lionturtle99/react-portfolio/static/media/medium (1).68cedd9fea183483655d.jpg",
-    "static/media/hogwarts.jpg": "/lionturtle99/react-portfolio/static/media/hogwarts.7c9a204159cb4c9277e6.jpg",
-    "static/media/Api.png": "/lionturtle99/react-portfolio/static/media/Api.9b23e25b236affd3ad68.png",
-    "index.html": "/lionturtle99/react-portfolio/index.html",
-    "main.ca802487.css.map": "/lionturtle99/react-portfolio/static/css/main.ca802487.css.map",
-    "main.618deae2.js.map": "/lionturtle99/react-portfolio/static/js/main.618deae2.js.map",
-    "787.a2cb61a6.chunk.js.map": "/lionturtle99/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/react-portfolio/static/css/main.af40cabf.css",
+    "main.js": "/react-portfolio/static/js/main.aa7a7bbe.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/taproom.gif": "/react-portfolio/static/media/taproom.d87a505b360a3ec86b1d.gif",
+    "static/media/closeup.jpg": "/react-portfolio/static/media/closeup.bbfa74d69a56d6f1bdb6.jpg",
+    "static/media/rollerskate.png": "/react-portfolio/static/media/rollerskate.733e04974a8acc5fe8ca.png",
+    "static/media/resume.pdf": "/react-portfolio/static/media/resume.aa3d4046e5ceecedad1a.pdf",
+    "static/media/medium (1).jpg": "/react-portfolio/static/media/medium (1).68cedd9fea183483655d.jpg",
+    "static/media/hogwarts.jpg": "/react-portfolio/static/media/hogwarts.7c9a204159cb4c9277e6.jpg",
+    "static/media/Api.png": "/react-portfolio/static/media/Api.9b23e25b236affd3ad68.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.af40cabf.css.map": "/react-portfolio/static/css/main.af40cabf.css.map",
+    "main.aa7a7bbe.js.map": "/react-portfolio/static/js/main.aa7a7bbe.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca802487.css",
-    "static/js/main.618deae2.js"
+    "static/css/main.af40cabf.css",
+    "static/js/main.aa7a7bbe.js"
   ]
 }
