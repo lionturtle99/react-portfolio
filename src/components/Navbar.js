@@ -10,6 +10,7 @@ function Navbar() {
     const clientHeight = document.documentElement.clientHeight;
     const scrollHeight = document.body.scrollHeight;
     const scrollPercentage = (scrollTop / (scrollHeight - clientHeight)) * 100;
+
     setScrollPercent(scrollPercentage);
   
     if(scrollTop < clientHeight) {
@@ -57,7 +58,7 @@ function Navbar() {
         </div>
       </nav>
       <div className="progress bg-transparent  my-0">
-        <div className="progress-bar bg-danger opacity-50" role="progressbar" aria-valuenow={`${scrollPercent}%`} aria-valuemin="0" aria-valuemax="100" style={{width: `${scrollPercent}%`}}></div>
+        <div className="progress-bar bg-danger opacity-50" role="progressbar" aria-valuenow={scrollPercent} aria-valuemin="0" aria-valuemax="100" style={{width: `${scrollPercent}%`}}></div>
       </div>
     </div>
   )

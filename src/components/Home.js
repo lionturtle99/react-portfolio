@@ -7,7 +7,7 @@ function Home() {
             <div className="col-md-1">
             </div>
             <div className="col-md-11">
-              <h1 className="display fw-bold">I'M <span className="text-light">LIAM</span> <br></br>ELLER</h1>
+              <h1 className="display fw-bold"><span className="text-light">LIAM</span> <br></br>ELLER</h1>
               <h3 className="text-danger">Software Engineer</h3>
               <div className="buttons">
                 <a href="#contact-me" className="btn btn-danger mx-4 my-2">Contact me</a>

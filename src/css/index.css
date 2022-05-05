@@ -16,9 +16,6 @@
 .progress {
   height: 2px;
 }
-/* .progress-bar {
-  width: calc(var(--width, 0) * 1%);
-} */
 
 /* home */
 .home-bg-img {
@@ -33,7 +30,7 @@
   transform: translateY(-40%);
 }
 
-/* portfolio */
+/* projects */
 .github-repo-card {
   text-decoration: none;
   color: inherit;
