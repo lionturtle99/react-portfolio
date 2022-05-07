@@ -6,7 +6,7 @@ function Contact() {
       <div className="container my-5">
         <div className="row mb-5">
           <div className="col-12">
-            <h1 className="fw-bold">Contact me <a href="https://www.instagram.com/sincerlyliam/" className="fa fa-instagram mx-2"></a></h1>
+            <h1 className="fw-bold">Contact me <a href="https://www.linkedin.com/in/liamellerportland/" className="fs-4 fa fa-linkedin"></a></h1>
             <hr></hr>
           </div>
         </div>

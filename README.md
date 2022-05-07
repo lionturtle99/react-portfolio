@@ -22,28 +22,27 @@
 </p>
 
 <p align="center">
-  <small>Initiated April, 2022</small>
+  <small>Initiated May, 2022</small>
 </p>
 
 <h1 align="center">Portfolio</h1>
 
-<p align="center">A thorough look at my life and career.</p>
+<p align="center">A brief look at my life and career.</p>
 
-<p align="center"><a href="https://lionturtle99.github.io/Portfolio/">Visit live site</a></p>
+<p align="center"><a href="https://lionturtle99.github.io/react-portfolio/">Visit live site</a></p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## Technologies Used
 
 * _Visual Studio Code_
-* _Github pages_
+* _Github, Git, and Github pages_
 * _HTML_
 * _CSS_
 * _Bootstrap_
 * _JavaScript_
-* _Jquery_
-* _NPM_
-* _Webpack_
+* _React_
+* _Node Package Manager_
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
@@ -54,6 +53,8 @@
 
 ## Acknowledgements
 - Thank you to my brother Lauden for encouraging me to pursue a career in tech and always believing in me. You're a great brother and a better friend.
+  
+- Thank you to my teachers Chris and Erik for showing me the ins and outs of React.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
@@ -61,8 +62,7 @@
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Copyright (C) 2022 Liam Eller. All Rights Reserved.
 
-
-<p align="center"><a href="#">Return to Top</a></p>
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 # Getting Started with Create React App
@@ -135,3 +135,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+<p align="center"><a href="#">Return to Top</a></p>
