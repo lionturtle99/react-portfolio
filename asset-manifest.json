@@ -1,22 +1,27 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.af40cabf.css",
-    "main.js": "/react-portfolio/static/js/main.aa7a7bbe.js",
+    "main.js": "/react-portfolio/static/js/main.767b0873.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/taproom.gif": "/react-portfolio/static/media/taproom.d87a505b360a3ec86b1d.gif",
+    "static/media/pink-dogwood.jpg": "/react-portfolio/static/media/pink-dogwood.fe5758a6391b39b2affa.jpg",
+    "static/media/market.jpeg": "/react-portfolio/static/media/market.313c41e7667d43acad59.jpeg",
     "static/media/closeup.jpg": "/react-portfolio/static/media/closeup.bbfa74d69a56d6f1bdb6.jpg",
+    "static/media/zaddy.jpg": "/react-portfolio/static/media/zaddy.ca8ca5c6ff4ab1f8d549.jpg",
+    "static/media/frame.jpeg": "/react-portfolio/static/media/frame.9c424379d5a32c69740d.jpeg",
     "static/media/rollerskate.png": "/react-portfolio/static/media/rollerskate.733e04974a8acc5fe8ca.png",
+    "static/media/high-kick.jpeg": "/react-portfolio/static/media/high-kick.4feb96045a56d0f4b3dd.jpeg",
     "static/media/resume.pdf": "/react-portfolio/static/media/resume.aa3d4046e5ceecedad1a.pdf",
     "static/media/medium (1).jpg": "/react-portfolio/static/media/medium (1).68cedd9fea183483655d.jpg",
     "static/media/hogwarts.jpg": "/react-portfolio/static/media/hogwarts.7c9a204159cb4c9277e6.jpg",
     "static/media/Api.png": "/react-portfolio/static/media/Api.9b23e25b236affd3ad68.png",
     "index.html": "/react-portfolio/index.html",
     "main.af40cabf.css.map": "/react-portfolio/static/css/main.af40cabf.css.map",
-    "main.aa7a7bbe.js.map": "/react-portfolio/static/js/main.aa7a7bbe.js.map",
+    "main.767b0873.js.map": "/react-portfolio/static/js/main.767b0873.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af40cabf.css",
-    "static/js/main.aa7a7bbe.js"
+    "static/js/main.767b0873.js"
   ]
 }
