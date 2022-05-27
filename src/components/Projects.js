@@ -1,4 +1,4 @@
-import taproom from './../assets/images/taproom.gif';
+import betterMerch from './../assets/images/better-merch-logo.jpg';
 import hogwarts from './../assets/images/hogwarts.jpg';
 import api from './../assets/images/Api.png';
 
@@ -15,29 +15,31 @@ function Projects() {
         <div className="row">
           <div className="col-md-4">
             <div className="card p-4">
-              <a className="github-repo-card" href="https://github.com/lionturtle99/TapRoom-React"><img src={taproom} alt="hops wearing a crown and glasses"></img></a>
+              <a className="text-center" href="https://github.com/lionturtle99/Better-Merch---Roller-Skate-e-Commerce"><img src={betterMerch} alt="hops wearing a crown and glasses"></img></a>
               <div className="card-body">
-                <h3 className="card-title text-center">Tap Room</h3>
+                <h3 className="card-title text-center">Better Merch</h3>
                 <p className="card-text text-center">
-                  A React application where a user plays both customer and brewer by adding kegs to be displayed in a list, sell pints and see the keg disappear when sold out</p>
+                  My Epicodus capstone project. A fully functional e-Commerce website for local artists to sell more modern roller skate merchandise than what's currently available on a single platform.
+                </p>
                   <p className="card-text mb-0">Main technologies used:</p>
                   <ul className="card-text">
-                    <li>HTML</li>
-                    <li>CSS</li>
                     <li>Javascript</li>
                     <li>React</li>
-                    <li>Node Package Management</li>
+                    <li>Redux</li>
+                    <li>Firebase</li>
+                    <li>Stripe</li>
+                    <li>NodeJS</li>
                   </ul>
               </div>
             </div>
           </div>
           <div className="col-md-4">
             <div className="card p-4 text-center">
-              <a className="github-repo-card" href="https://github.com/lionturtle99/Hogwarts-School-of-Magic"><img src={hogwarts} alt="castle with with a lake and boats"></img></a>
+              <a href="https://github.com/lionturtle99/Hogwarts-School-of-Magic"><img src={hogwarts} alt="castle with with a lake and boats"></img></a>
               <div className="card-body">
                 <h3 className="card-title">Hogwarts School of Magic</h3>
                 <p className="card-text">
-                  A C# MVC team project. I was responsible for implementing AJAX, Bootstrap 5 styling and .NET Identity to communicate with MySQL Workbench.
+                  C# MVC team project. I was responsible for implementing AJAX, Bootstrap 5 and .NET Identity with LINQ to communicate with MySQL database.
                 </p>
                   <p className="card-text">
                     You can view<a className="text-decoration-none" href="http://hogwarts.dlinds.com:6001"> the live site </a>to see what house you belong in.
@@ -47,7 +49,7 @@ function Projects() {
           </div>
           <div className="col-md-4">
             <div className="card p-4">
-              <a className="github-repo-card" href="https://github.com/lionturtle99/currency-exchange-API-week"><img src={api} alt="application programming interface diagram"></img></a>
+              <a href="https://github.com/lionturtle99/currency-exchange-API-week"><img src={api} alt="application programming interface diagram"></img></a>
               <div className="card-body text-center">
                 <h3 className="card-title">Animal Shelter API</h3>
                 <p className="card-text">

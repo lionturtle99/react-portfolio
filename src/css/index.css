@@ -31,13 +31,6 @@
 }
 
 /* projects */
-.github-repo-card {
-  text-decoration: none;
-  color: inherit;
-}
-.github-repo-card:hover {
-  color: inherit
-}
 .card {
   margin: auto;
   width: 18rem;

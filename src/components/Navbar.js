@@ -29,7 +29,7 @@ function Navbar() {
     <div className="fixed-top">
       <nav id="navbar" className={navbarColor} >
         <div className="container-fluid">
-          <a className="navbar-brand" href="#home">
+          <a className="navbar-brand" href="#">
             <img className="float-start mt-1" src={rollerskate} alt="rollerskate"></img>
             <div className="float-end text-center">
               <p className="mt-2 mb-0">Liam Eller</p>
@@ -42,7 +42,7 @@ function Navbar() {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav ms-auto me-2 mb-2 mb-lg-0 ">
               <li className="mx-2 nav-item">
-                <a className="nav-link" href="#home">Home</a>
+                <a className="nav-link" href="#">Home</a>
               </li>
               <li className="mx-2 nav-item">
                 <a className="nav-link" href="#about">About</a>
